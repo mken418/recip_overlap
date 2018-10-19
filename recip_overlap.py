@@ -20,7 +20,7 @@ def recip_overlap(X1, X2, Y1, Y2, thresh):
             return True
 
 
-        #check if Y range is completely within X, will cover if they are the same range
+        #check if Y range is completely within X
         """
         X1-------------X2
             Y1------Y2
