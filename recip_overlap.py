@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 
-
-
-
-
-
 def recip_overlap(X1, X2, Y1, Y2, thresh):
     """
     Will determine reciprocal overlap for two ranges.
