@@ -92,5 +92,8 @@ def recip_overlap(X1, X2, Y1, Y2, thresh):
                 return True
             else:
                 return False
-
+            
+    #no overlap at all  
+    else:
+        return False
 
